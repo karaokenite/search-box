@@ -4,6 +4,7 @@ let songs = [];
 
 console.log(searchBar);
 
+// After an user type a character in the searchbox
 searchBar.addEventListener('keyup', (e) => {
   const searchString = e.target.value.toLowerCase();
 
@@ -19,7 +20,6 @@ searchBar.addEventListener('keyup', (e) => {
   });
   
   displaysongs(filteredSongs);
-
   // console.log(filteredsongs);
 });
 
