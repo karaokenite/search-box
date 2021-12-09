@@ -1,0 +1,722 @@
+[
+  {
+    "title": "In Da Club",
+    "artist": "50 Cent",
+    "alternate_names": ["Curtis Jackson", "G-Unit"],
+    "album": "Get Rich or Die Tryin'",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2F50_Cent_Get_Rich_or_Die_Tryin.jpg?v=1630391709929",
+    "genre": ["Hip Hop", "Rap"],
+    "year": 2003
+  },
+  {
+    "title": "good 4 u",
+    "artist": "Oliva Rodrigo",
+    "alternate_names": [""],
+    "album": "Sour",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FOlivia_Rodrigo_Sour.png?v=1630395581342",
+    "genre": ["Pop-Punk", "Pop"],
+    "year": 2021
+  },
+  {
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "alternate_names": ["Nick Carter", "Howie Dorough", "AJ McLean", "Brian Littrell", "Kevin Richardson"],
+    "album": "Millenium",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FBackstreet_Boys_Millennium.jpg?v=1630395553586",
+    "genre": ["Pop"],
+    "year": 1999
+  },
+  {
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "alternate_names": ["Biebs"],
+    "album": "Justice",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FJustin_Bieber_Justice.png?v=1630395564134",
+    "genre": ["Pop"],
+    "year": 2021
+  },  
+  {
+    "title": "Dilemma (ft. Kelly Rowland)",
+    "artist": "Nelly",
+    "alternate_names": [""],
+    "album": "Nellyville",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FNelly_Nellyville.jpg?v=1630395574505",
+    "genre": ["Pop", "R&B"],
+    "year": 2002
+  },
+  {
+    "title": "Tall Trees",
+    "artist": "Manorofanimals",
+    "alternate_names": ["Sam Lasko"],
+    "album": "Manorofanimals",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Ftall_trees.jpeg?v=1621055790085",
+    "genre": ["Pop"],
+    "year": 2021
+  },
+  {
+    "title": "my ex's best friend (ft. blackbear)",
+    "artist": "Machine Gun Kelly",
+    "alternate_names": ["MGK", "Kells", "Kellz"],
+    "album": "Tickets to My Downfall",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FMachine_Gun_Kelly_Tickets_to_My_Downfall.png?v=1630395569665",
+    "genre": ["Pop Punk"],
+    "year": 2020
+  },
+  {
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "alternate_names": [""],
+    "album": "Savage Garden",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FSavage_Garden_Savage_Garden.jpg?v=1630395576628",
+    "genre": ["Pop"],
+    "year": 1997
+  },
+  {
+    "title": "She Will Be Loved",
+    "artist": "Maroon 5",
+    "alternate_names": ["Adam Levine", "Kara's Flowers"],
+    "album": "Songs About Jane",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FMaroon_5_Songs_About_Jane.jpg?v=1630395572591",
+    "genre": ["Pop Rock"],
+    "year": 2004
+  },
+  {
+    "title": "Beast of Burden",
+    "artist": "The Rolling Stones",
+    "alternate_names": ["The Stones", "Mick Jagger", "Keith Richards"],
+    "album": "Some Girls",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Frolling-stones-some-girls.jpg?v=1591040877607",
+    "genre": ["Classic Rock"],
+    "year": 1978
+  }, 
+  {
+    "title": "Killing Me Softly",
+    "artist": "Fugees",
+    "alternate_names": ["Adam Levine", "Kara's Flowers"],
+    "album": "The Score",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Ffugees-the-score.png?v=1591040952706",
+    "genre": ["Hip Hop", "Soul"],
+    "year": 1996
+  },
+  {
+    "title": "Blood Red Summer",
+    "artist": "Coheed and Cambria",
+    "alternate_names": ["Claudio"],
+    "album": "In Keeping Secrets of Silent Earth: 3",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fcoheed-and-cambria-in-keeping-secrets.jpg?v=1591040969216",
+    "genre": ["Emo", "Pop Punk"],
+    "year": 2003
+  },
+  {
+    "title": "Teenage Dirtbag",
+    "artist": "Wheatus",
+    "alternate_names": [""],
+    "album": "Wheatus",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fwheatus-wheatus.jpg?v=1591114972728.jpg",
+    "genre": ["Pop Rock", "Pop Punk"],
+    "year": 2000
+  },
+  {
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "alternate_names": ["Tay"],
+    "album": "Fearless",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FTaylor_Swift_Fearless.png?v=1630395579012",
+    "genre": ["Pop", "Country"],
+    "year": 2008
+  },
+  {
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "alternate_names": ["Tay"],
+    "album": "Red",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Ftaylor-swift-red.png?v=1591115004639",
+    "genre": ["Pop", "Country", "Pop Rock"],
+    "year": 2012
+  },
+  {
+    "title": "Our Song",
+    "artist": "Taylor Swift",
+    "alternate_names": ["Tay"],
+    "album": "Taylor Swift",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FTaylor_Swift_Taylor_Swift.png?v=1632015837963",
+    "genre": ["Pop", "Country"],
+    "year": 2006
+  },
+  {
+    "title": "Feel Good Inc.",
+    "artist": "Gorillaz",
+    "alternate_names": [""],
+    "album": "Demon Days",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fgorillaz-demon-days.jpg?v=1591115146848",
+    "genre": ["Hip Hop", "Rock"],
+    "year": 2005
+  },
+  {
+    "title": "Wagon Wheel",
+    "artist": "Old Crow Medicine Show",
+    "alternate_names": ["Old Crow", "OCMS"],
+    "album": "Old Crow Medicine Show",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fold-crow-medicine-show-ocms.jpg?v=1591115180138",
+    "genre": ["Country", "Folk"],
+    "year": 2004
+  },
+  {
+    "title": "Power Trip (ft. Miguel)",
+    "artist": "J. Cole",
+    "alternate_names": ["Moe Dee"],
+    "album": "Born Sinner",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fj-cole-born-sinner.jpg?v=1591115254771",
+    "genre": ["Hip Hop"],
+    "year": 2013
+  },
+  {
+    "title": "Don't Start Now",
+    "artist": "Duo Lipa",
+    "alternate_names": ["Dula Peep"],
+    "album": "Future Nostalgia",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fdua-lipa-future-nostalgia.png?v=1591115288043",
+    "genre": ["Pop"],
+    "year": 2020
+  },
+  {
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "alternate_names": [""],
+    "album": "Let's Get It On",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fmarvin-gaye-lets-get-it-on.jpg?v=1591115313029",
+    "genre": ["Soul", "Funk"],
+    "year": 1973
+  },
+  {
+    "title": "New Slang",
+    "artist": "The Shins",
+    "alternate_names": [""],
+    "album": "Oh, Inverted World",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fshins-oh-inverted-world.jpg?v=1591115405298",
+    "genre": ["Indie Rock"],
+    "year": 1900
+  },
+  {
+    "title": "Boys (Summertime Love)",
+    "artist": "Sabrina",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fsabrina-sabrina.jpg?v=1591157973806",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Come and Get Your Love",
+    "artist": "Redbone",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fredbone-wovoka.jpg?v=1591158069587",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Running Up That Hill",
+    "artist": "Kate Bush",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fkate-bush-hounds-of-love.png?v=1591158143497",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "What's Luv (ft. Ashanti & Ja Rule)",
+    "artist": "Fat Joe",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Ffat-joe-jealous-ones-still-envy.jpg?v=1591158242429",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Where Is the Love?",
+    "artist": "Black Eyed Peas",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fthe-black-eyed-peas-elephunk.jpg?v=1592289078276",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Shallow",
+    "artist": "Lady Gaga, Bradley Cooper",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fa-star-is-born-soundtrack.png?v=1592289621175",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Starman",
+    "artist": "David Bowie",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FZiggyStardust.jpg?v=1592290475425",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "So Into You",
+    "artist": "Tamia",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Ftamia-tamia.jpg?v=1592293320960",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "So Far I'll Go",
+    "artist": "Moana",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fmoana.jpg?v=1592293556055",
+    "genre": ["Disney", ""],
+    "year": 1900
+  },
+  {
+    "title": "Complicated",
+    "artist": "Avril Lavigne",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Favril-lavigne-let-go.jpg?v=1592350310450",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fcoldplay_a_rush_of_blood_to_the_head.jpg?v=1592345525258",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Slow Jamz",
+    "artist": "Kanye West",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fkanye-west-college-dropout.jpg?v=1592345728189",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Only God Knows Why",
+    "artist": "Kid Rock",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fkid_rock_devil_without_a_cause.jpg",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Drive",
+    "artist": "Incubus",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fincubus_make_yourself.jpg?v=1592351374184",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Electric Feel",
+    "artist": "MGMT",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fmgmt-oracular-spectacular.jpg?v=1597048139589",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Whatever You Like",
+    "artist": "T.I.",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fti-paper-trail.jpg?v=1597048556668",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "When the Party's Over",
+    "artist": "Billie Eilish",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fbillie-eilish-when-we-all-fall-asleep-where-do-we-go.png?v=1597048822150",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Last Nite",
+    "artist": "The Strokes",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fthe-strokes-is-this-it.jpeg?v=1597049464828",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "More Than a Feeling",
+    "artist": "Boston",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fboston-boston.jpg?v=1597049792069",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Where Is My Mind",
+    "artist": "Pixies",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fpixies-surfer-rosa.jpg?v=1597105737389",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Cryin'",
+    "artist": "Aerosmith",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Faerosmith-pump.jpg?v=1597106237598",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Super Bass",
+    "artist": "Nicki Minaj",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fnicki-minaj-pink-friday.jpg?v=1597106428087",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "California Dreamin'",
+    "artist": "The Mamas and the Papas",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fthe-mamas-and-the-papas-if-you-can-believe-your-eyes-and-ears.jpg?v=1597107066098",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "The First Cut Is the Deepest",
+    "artist": "Sheryl Crow",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fsheryl-crow-the_very_best_of_sheryl_crow.png?v=1597107235494",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Ddu-Du Ddu-Du (뚜두뚜두)",
+    "artist": "Black Pink",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fblack-pink-square-up.png?v=1597114366350",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Havana (ft. Young Thug)",
+    "artist": "Camila Cabellow",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fcamila-cabello-camila.png?v=1597115047844",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Hooked on a Feeling",
+    "artist": "Blue Swede",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FBlue_Swede_Hooked_on_a_Feeling.jpeg?v=1597115341619",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Hello",
+    "artist": "Adele",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Fadele-25.png?v=1597116632498",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Best I Ever Had",
+    "artist": "Drake",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FDrake_Thank_Me_Later.jpg?v=1597116955766",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Crazy in Love (ft. Jay-Z)",
+    "artist": "Beyoncé",
+    "alternate_names": ["Bey"],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FBeyonce_Dangerously_In_Love.png?v=1597208523041",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Burnin' Up",
+    "artist": "Jonas Brothers",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FJonas_Brothers_A_Little_Bit_Longer.jpg?v=1597208768173",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Truth Hurts",
+    "artist": "Lizzo",
+    "alternate_names": [""],
+    "album": "Cus I Love You",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FLizzo_Cuz_I_Love_You.png?v=1597208778608",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Boy With Luv 작은 것들을 위한 시 (ft. Halsey)",
+    "artist": "BTS",
+    "alternate_names": [""],
+    "album": "Map of the Soul 7",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FBTS_Map_of_the_Soul_7.png?v=1597208780997",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Bodak Yellow",
+    "artist": "Cardi B",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FCardi_B_Invasion_of_Privacy.png?v=1597208784442",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "alternate_names": [""],
+    "album": "Help!",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FThe_Beatles_Help.jpg?v=1597386383196",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Señorita",
+    "artist": "Shawn Mendes, Camila Cabella",
+    "alternate_names": [""],
+    "album": "Shawn Mendes",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FShawn_Mendes_Shawn_Mendes.png?v=1597389147244",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FThe_Bodyguard_Original_Soundtrack_Album.jpg?v=1597389683244",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FRed_Hot_Chili_Peppers_BSSM.jpg?v=1597433975118",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Jolene",
+    "artist": "Dolly Parton",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FDolly_Parton_Jolene.jpg?v=1597434213221",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Lucid Dreams",
+    "artist": "Juice WRLD",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FJuice_WRLD_Goodbye_%26_Good_Riddance.jpg?v=1630908600083",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "alternate_names": [""],
+    "album": "Divide",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FEd_Sheeran_Divide.png?v=1630908631595",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "I'm Not Okay (I Promise)",
+    "artist": "",
+    "alternate_names": [""],
+    "album": "Three Cheers for Sweet Revenge",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FMCR_ThreeCheers.jpg?v=1630908640551",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Frozen",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FFrozen_Soundtrack.png?v=1630908641926",
+    "genre": ["Disney", ""],
+    "year": 1900
+  },
+  {
+    "title": "Mr. Brightside",
+    "artist": "The Killers",
+    "alternate_names": [""],
+    "album": "Hot Fuss",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FThe_Killers_Hot_Fuss.png?v=1630908655427",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Misery Business",
+    "artist": "Paramore",
+    "alternate_names": [""],
+    "album": "Riot!",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FParamore_Riot.png?v=1630908658514",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Surrender",
+    "artist": "Cheap Trick",
+    "alternate_names": [""],
+    "album": "Heaven Tonight",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FCheap_Trick_Heaven_Tonight.jpg?v=1630908673595",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FSpice_Girls_Spice.png?v=1630908662937",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "What It Takes",
+    "artist": "Aerosmith",
+    "alternate_names": [""],
+    "album": "Pump",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2Faerosmith-pump.jpg?v=1597106237598",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Umbrella",
+    "artist": "Rihanna",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FRihanna_Good_Girl_Gone_Bad_Reloaded.png?v=1630908680052",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Take Me Home, Country Roads",
+    "artist": "John Denver",
+    "alternate_names": [""],
+    "album": "Poems, Prayers, and Promises",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FJohn_Denver_Poems%2C_Prayers_and_Promises.jpg?v=1630919289653",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Say My Name",
+    "artist": "Destiny's Child",
+    "alternate_names": [""],
+    "album": "The Writing's on the Wall",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FDestinys_Child_The_Writings_on_the_Wall.jpg?v=1630908695471",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "While My Guitar Gently Weeps",
+    "artist": "The Beatles",
+    "alternate_names": [""],
+    "album": "The White Album",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FThe_Beatles_White_Album.jpg?v=1630908700032",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Something",
+    "artist": "The Beatles",
+    "alternate_names": [""],
+    "album": "Abbey Road",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FThe_Beatles_Abbey_Road.jpg?v=1630908701339",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Innocence",
+    "artist": "Avril Lavigne",
+    "alternate_names": [""],
+    "album": "The Best Damn Thing",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FAvril_Lavigne_The_Best_Damn_Thing.png?v=1630908705992",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Wanted Dead or Alive",
+    "artist": "Bon Jovi",
+    "alternate_names": [""],
+    "album": "Slippery When Wet",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FBon_Jovi_Slippery_When_Wet.jpeg?v=1632015873939",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Keep Your Hands to Yourself",
+    "artist": "Georgia Satellites",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FKepp_Your_Hands_to_Yourself_Georgia_Satellites.jpeg?v=1632015834054",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "alternate_names": [""],
+    "album": "",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FBaby_One_More_Time.png?v=1632203166894",
+    "genre": ["", ""],
+    "year": 1900
+  },
+  {
+    "title": "Everlong",
+    "artist": "Foo Fighters",
+    "alternate_names": [""],
+    "album": "The Colour and the Shape",
+    "album_image": "https://cdn.glitch.com/b316bbdc-0b0c-4c6d-94fb-fffb37f510a9%2FThe_Colour_And_The_Shape.jpeg?v=1632203175507",
+    "genre": ["", ""],
+    "year": 1900
+  }
+]
