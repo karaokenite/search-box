@@ -1,4 +1,3 @@
-
 const songsList = document.getElementById('songsList');
 const searchBar = document.getElementById('searchBar');
 let songs = [];
